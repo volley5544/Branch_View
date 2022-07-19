@@ -46,9 +46,9 @@ class _LoginPageWidgetState extends State<LoginPageWidget> {
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
                     Image.network(
-                      'https://storage.googleapis.com/flutterflow-io-6f20.appspot.com/projects/template-screens-hpce0u/assets/xofl99y11az0/@3xlogo_primary_color_white.png',
+                      'https://static.wikia.nocookie.net/hololivevtuber/images/0/03/Tokoyami_Towa_Art_by_rurudo.jpg/revision/latest?cb=20200616232043',
                       width: 240,
-                      height: 60,
+                      height: 250,
                       fit: BoxFit.fitWidth,
                     ),
                   ],
